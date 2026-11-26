@@ -1,0 +1,1 @@
+POAbooth revised landscape photobooth. Open through HTTPS to enable camera access. Camera capture and every strip frame use landscape 16:9; completed strips are vertical stacks. Photos advance automatically and the final capture opens the designer. QR opens the deployed website; direct QR photo downloads need an online storage/backend service.
